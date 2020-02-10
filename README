@@ -1,8 +1,8 @@
-<strong>Payment Tracker<strong/>
+<b>Payment Tracker</b>
 
 Write a program that keeps a record of payments. Each payment includes a currency and an amount. The program should output a list of all the currency and amounts to the console once per minute. The input can be typed into the command line, and optionally also be loaded from a file when starting up.
 
-<strong>Sample input:<strong/>
+<b>Sample input:</b>
 · USD 1000
 · HKD 100
 · USD -100
